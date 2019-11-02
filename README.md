@@ -1,6 +1,10 @@
 # hello-world
 First repository on GitHub.
 
-I enjoy to code very much. It is an interesting task to create something from the ground-up all by yourself.
+Basketball is my favorite sport; I like it when the dribble up and down the court.
 
-I want to be the greatest software developer of all time.
+Poet at heart, dreamer for tart.
+
+Blue is a cool color and 2 might be the best number.
+
+Cleveland Cavaliers are #1 in my <3.
